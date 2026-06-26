@@ -58,7 +58,10 @@ git clone https://github.com/yourusername/portfolio.git
 open index.html
 ```
 
-Or simply double-click `index.html` in your file explorer.
+Or visit:
+```bash
+https://va-seven-steel.vercel.app/
+```
 
 ---
 
